@@ -8,7 +8,7 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "/home/mohamudabdiaziz7/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "/home/mohamudabdiaziz7/c#projects/mathGame/mathGame.csproj",
       "projectName": "mathGame",
       "projectPath": "/home/mohamudabdiaziz7/c#projects/mathGame/mathGame.csproj",
-      "packagesPath": "/root/.nuget/packages/",
+      "packagesPath": "/home/mohamudabdiaziz7/.nuget/packages/",
       "outputPath": "/home/mohamudabdiaziz7/c#projects/mathGame/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "/home/mohamudabdiaziz7/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
